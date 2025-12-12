@@ -1,4 +1,4 @@
-# iterm2-navigation-keys-preset (macOS)
+# iterm2 navigation keys preset (macOS)
 Preset file for iterm2 navigation configuration 
 
 ## Setup
