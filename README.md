@@ -9,7 +9,7 @@ Preset file for iterm2 navigation configuration
 * Click to `Presets...` > `Import`
 * Select downloaded preset key
 
-Do same in  if you have profiles setup in your iterm2
+Do same if you have profiles setup in your iterm2
 * Go to `Profile` > `Keys` > `Key Bindings`
 * Click to `Presets...` > `Import`
 * Select downloaded preset key
